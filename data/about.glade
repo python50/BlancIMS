@@ -11,7 +11,7 @@
     <property name="version">1.0</property>
     <property name="copyright" translatable="yes">Copyright (C) 2012 Jason White</property>
     <property name="comments" translatable="yes">BlancIMS is an open source inventory managment system (IMS) written by Jason White originally as an entry to the Gannon University Programming contest.</property>
-    <property name="website">http://jswhite.net</property>
+    <property name="website">http://jswhite.net/</property>
     <property name="website_label" translatable="yes">Homepage of BlancIMS</property>
     <property name="license" translatable="yes">GNU GENERAL PUBLIC LICENSE
 

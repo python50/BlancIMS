@@ -23,6 +23,6 @@ Note you may need to mark main.py with executable permissions. In there main fol
 	python main.py
 	
 If all is well python should execute my program and the GUI should pop up. Then you can continue on to the "USE" file. If you encounter errors that you cannot solve, I recommend the following actions: Google It, Ask The Guru, Contact Me with the error.
-	
+
 --
 Note to self: the glade editor package used was glade-gtk2

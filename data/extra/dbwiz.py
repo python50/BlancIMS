@@ -1,7 +1,7 @@
 #!/usr/bin/python
 from data import *
 
-		
+
 def add_item(db):
 	name=str(raw_input('Model: '))
 	desc=str(raw_input('Desc: '))

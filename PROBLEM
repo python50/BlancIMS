@@ -6,7 +6,7 @@ Problem Abstract:
 	The goal of BlancIMS is to solve my problem of tracking the type, functionality, cost, and location a large number of items. It is a Lightweight Inventory Management Program tailored to my needs. The goal was for it to be simplistic, as not to require to much effort of my part to use effectively. I originally tried to use the bloated Java based Open Office/Libre Office for tracking. However, I found them to heavy, slow, and complicated to suit my needs. That is why I wrote BlancIMS.
 
 I have electronic engineering as a hobby, as a result I have either bought or salvaged hundreds "Chips" [integrated circuits] for a wide range of purposes. Simply imagine keeping track of hundreds of drawers filled with computer chips and components. Each is often no bigger than the size of your thumbnail. Yet, each different model has a different and unique functionality for a specific niche. Since I have obtained more electronic parts than I can count, it tends to make finding just the right one very difficult.
-
+ 
 Features:
 	* Easily track a large number of items
 		* Type ("category")
