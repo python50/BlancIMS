@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 BlancIMS README - By Jason White
 -------------------------------------------------------------------------------
-Name:	BlancIMS
-By:	Jason White
-Type:	Inventory management software
-Language: Python
-Version: 1.0
-Platform: Linux (Windows possible but painful)
+Name:		BlancIMS
+By:		Jason White
+Type:		Inventory management software
+Language:	Python
+Version: 	1.0
+Platform:	Linux (Windows possible but painful)
 
 -------------------------------------------------------------------------------
 Problems solved: see file "PROBLEM"

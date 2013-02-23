@@ -1,5 +1,10 @@
 *.py[cod]
 
+#compiled python
+*.pyc
+
+#file backups
+*~
 # C extensions
 *.so
 
