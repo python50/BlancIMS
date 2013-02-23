@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------	
+BlancIMS INSTALL Instructions - Jason White
+-------------------------------------------------------------------------------
+
+Thank you for getting this far without discarding my project ! Note that the platform I am documenting installation from is Ubuntu Linux, please identify find your local Linux Guru before proceeding. If no Gurus are present you can contact me (Jason White) at Jason AT JSWhite.net if you run into any problems installing or running this program.
+
+NOTE: it appears that Ubuntu already comes with all of the required dependencies, I recommend using Ubuntu to test it. I tested on ubuntu 12.04 and 11.04.
+
+Dependencies:
+* Python 2.7 (python.org)
+* Python module dependencies:
+	* python-gtk2 (pygtk.org)
+	* python-glade2 (glade.gnome.org)
+	* Pango
+	* cpickle (Standard Library)
+	* csv (Standard Library)
+	
+Command Line Install Dependencies:
+	sudo apt-get install python2.7 python-gtk2 python-glade2
+	
+Running:
+Note you may need to mark main.py with executable permissions. In there main folder of the project on the command line type: 
+	python main.py
+	
+If all is well python should execute my program and the GUI should pop up. Then you can continue on to the "USE" file. If you encounter errors that you cannot solve, I recommend the following actions: Google It, Ask The Guru, Contact Me with the error.
+	
+--
+Note to self: the glade editor package used was glade-gtk2

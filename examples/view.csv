@@ -1,0 +1,113 @@
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+Example,Maxtor,Look at the Other Categories !,1,0.00,Here
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+ABC-123,National Semi,"Power Diode, 1A",3,0.34,A1
+DEF-456,Fairchild,"Power Diode, 500mA",4,0.18,A2
+GHI-136,Microchip,"Power Diode, 15A",8,0.41,A3
+JKL-746,TI,"Signal Diode, 50mA",23,5.00,A4
+MNO-094/P,ST,"Signal Diode, 150mA",5,0.97,A5
+1N1001,Atmel,"Signal Diode, 700mA, Fast",8,0.50,A6
+2N2001,NXP,"Signal Diode, 300mA",9,1.20,A7
+ABC-123,National Semi,"Zener 5.3v, 1W, 10%",3,0.34,A1
+GHI-136,Microchip,"Zener 2.4v, 400mW, 10%",8,0.41,A3
+JKL-746,TI,"Zener 12.1v, 100mW, 5%",23,5.00,A4
+1N1001,Atmel,"Zener 3.3v, 250mW, 5%",8,0.50,A6
+2P1234,Logiram,"Zener 5.1v, 1.2W, 5%",0,0.00,
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
+2N2222,National,"1A, 30v, TO-92",25,0.45,B1
+2N3904,Fairchild,"500ma, 30v, TO-92",18,0.44,B2
